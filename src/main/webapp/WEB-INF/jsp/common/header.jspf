@@ -4,7 +4,7 @@
 
 <html>
 <head>
-<title>Todo's of ${todo.name}</title>
+<title>Your's Todo's are -></title>
 <link href="webjars/bootstrap/3.3.6/css/bootstrap.min.css"
 	rel="stylesheet">
 </head>
